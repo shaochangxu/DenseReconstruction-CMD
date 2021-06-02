@@ -4,8 +4,12 @@ Fisrt use colmap to complete the sparse reconstruction
 The result dir just as follows:
 
 e.g. <br/>
-sparse output path: /home/hadoop/data/data/0529/  <br/>
-image path:         /home/hadoop/data/data/TEST/  <br/>
+<br/>
+sparse output path:<br/> 
+/home/hadoop/data/data/0529/  <br/>
+
+image path:<br/>
+/home/hadoop/data/data/TEST/  <br/>
      
 dir structure  
 ![截屏2021-06-02 下午1 17 18](https://user-images.githubusercontent.com/85155497/120427766-1c7e6e00-c3a5-11eb-9ed3-d01eae15b9bb.png)
