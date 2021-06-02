@@ -12,7 +12,8 @@ image path:<br/>
 /home/hadoop/data/data/TEST/  <br/>
      
 dir structure  
-![截屏2021-06-02 下午1 17 18](https://user-images.githubusercontent.com/85155497/120427766-1c7e6e00-c3a5-11eb-9ed3-d01eae15b9bb.png)
+![截屏2021-06-02 下午1 17 18](https://user-images.githubusercontent.com/85155497/120428103-a1698780-c3a5-11eb-8b6f-fbe4b8a5f088.png)
+
 
   
 Then use the script as follows:                          
