@@ -3,7 +3,7 @@
 Fisrt use colmap to complete the sparse reconstruction
 The result dir just as follows:
 
-e.g. sparse output path: /home/hadoop/data/data/0529/
+e.g. sparse output path: /home/hadoop/data/data/0529/ \n
      image path: /home/hadoop/data/data/TEST/
      
 dir structure
