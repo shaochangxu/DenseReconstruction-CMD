@@ -42,3 +42,4 @@ Then the result:
                                   
 fusedAll.ply:
 
+<img width="840" alt="截屏2021-05-30 下午4 38 15" src="https://user-images.githubusercontent.com/85155497/120426434-abd65200-c3a2-11eb-9302-cd2ab79e39ae.png">
